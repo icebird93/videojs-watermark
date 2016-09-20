@@ -1,7 +1,4 @@
-console.log('watermark: Start');
-
 (function() {
-  console.log('watermark: Init defaults');
   var defaults = {
         file: 'Owned_Stamp.png',
         xpos: 0,
